@@ -1,2 +1,4 @@
 just some file 4354365
-modificare
+modificare 
+
+modificare semigrupa 111/1
