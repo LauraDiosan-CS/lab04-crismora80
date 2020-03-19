@@ -1,4 +1,4 @@
 just some file
 modificare
 
-bla fegtr
+// comentariu
